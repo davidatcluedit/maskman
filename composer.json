@@ -3,6 +3,12 @@
     "description": "from CamelCase to snake_case, from snake_case to CamelCase",
     "type": "library",
     "license": "MIT",
+    "keywords": [
+        "json",
+        "array",
+        "camelCase",
+        "snake_case"
+    ],
     "authors": [
         {
             "name": "sgkim",
