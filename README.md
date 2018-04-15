@@ -37,7 +37,7 @@ composer require cluedit/maskman
 ```json
 {
     "require": {
-        "cluedit/maskman": "*"
+        "cluedit/maskman": "~1.0"
     }
 }
 ```
